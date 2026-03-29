@@ -1,7 +1,7 @@
 
 # Intentional hardcoded secret for testing
 import requests
-
+# making change for PR testing
 # VULNERABILITY: hardcoded API key
 API_KEY = "sk-prod-abc123xyz789secretkey"
 BASE_URL = "https://api.example.com"
